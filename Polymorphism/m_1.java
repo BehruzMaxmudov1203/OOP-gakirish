@@ -75,5 +75,6 @@ public class m_1 {
 
         System.out.println("Absolyut: " + mathFunctions.abs(-5));
         System.out.println("Kvadrat: " + mathFunctions.pow(5));
+
     }
 }
